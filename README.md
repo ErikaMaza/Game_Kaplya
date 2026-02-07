@@ -1,2 +1,2 @@
 # Game_Kaplya
-Game Kaplya
+Игра капля
